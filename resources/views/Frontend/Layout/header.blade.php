@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Construction & Building HTML Template">
     <meta name="author" content="AlexaTheme">
-    <title>Indico | Construction & Building HTML Template</title>
+    <title>Rahman Builders | Construction & Building HTML Template</title>
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('img/favicon.png') }}">
 
     <link rel="stylesheet" href="{{ asset('css/fontawesome.min.css') }}">
